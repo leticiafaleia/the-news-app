@@ -17,6 +17,7 @@ On the first screen of the app, an API joke is displayed [Chuck Norris Jokes Api
 - In the list of jokes, it is possible to view it and also delete it.
 
 <img src="1.png" alt="newsHome" width="200"/>
+<img src="2.png" alt="newsHome" width="200"/>
 
 ## Observation
 App developed by @leticiafaleia
