@@ -1,5 +1,5 @@
 # the-news-app
-A simple app that shows top headlines in US, and the inspiration come this tutorial by iOS Academy
+A simple app that shows top headlines in US. The inspiration comes from this [tutorial](https://www.youtube.com/watch?v=V2IfBdxjWs4&t=53s) by iOS Academy
 
 I used the Design Pattern [MVC](https://www.devmedia.com.br/introducao-ao-padrao-mvc/29308)
 
